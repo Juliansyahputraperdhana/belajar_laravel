@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product List - CRUD Laravel 12</title>
+    <title>Daftar Produk Elektronik CRUD Laravel 12</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
         /* Reset & Base Styles */
@@ -15,7 +15,7 @@
         }
 
         body {
-            background: linear-gradient(135deg, #001570 0%, #000000 100%);
+            background: linear-gradient(135deg, #00118eff 0%, #00bfffff 100%);
             min-height: 100vh;
             color: #1e293b;
             line-height: 1.6;
@@ -179,10 +179,10 @@
                 <div>
                     <h1 class="title-primary">
                         <i class="fas fa-box-open" style="margin-right: 1rem; color: #0c00e7;"></i>
-                        Manajemen Produk
+                        Manajemen Produk Elektronik Yang Berkualitas
                     </h1>
                     <p style="margin-top: 0.5rem; color: #475569;">
-                        Kelola inventaris produk Anda dengan sistem tabel terstruktur.
+                        Di kelola ini inventaris produk elektronik dengan sistem tabel terstruktur.
                     </p>
                 </div>
                 <div>
