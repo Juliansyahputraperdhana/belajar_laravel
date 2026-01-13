@@ -70,7 +70,7 @@
 
         .btn-primary { background: #0c00e7; color: white; }
         .btn-view { background: #0c00e7; color: white; padding: 0.5rem 0.8rem; }
-        .btn-edit { background: #00a038; color: white; padding: 0.5rem 0.8rem; }
+        .btn-edit { background: #008f13; color: white; padding: 0.5rem 0.8rem; }
         .btn-delete { background: #a30000; color: white; padding: 0.5rem 0.8rem; }
 
         .btn:hover {
@@ -194,7 +194,7 @@
         </div>
 
         @if (session('success'))
-            <div style="background: #00a038; color: white; padding: 1rem; border-radius: 10px; margin-bottom: 1.5rem; border: 2px solid #000;">
+            <div style="background: #008f13; color: white; padding: 1rem; border-radius: 10px; margin-bottom: 1.5rem; border: 2px solid #000;">
                 <i class="fas fa-check-circle"></i> {{ session('success') }}
             </div>
         @endif
